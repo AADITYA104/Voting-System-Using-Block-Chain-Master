@@ -33,17 +33,3 @@ send_email_private_key(request.session['email-id'], private_key)
 5. Locate `manage.py` file and run `python manage.py runserver` in the same directory.
 
 6. Locate the URL provided in the terminal and access that. by default it is [http://127.0.0.1:8000](http://127.0.0.1:8000).
-
-
-
-## References
-
-- <a name="EmailCredentials">Why and How to add Email credentials:</a>
-
-  How and Why: https://www.youtube.com/watch?v=JRCJ6RtE3xU (Watch out first 2 minutes of this video)
-
-  https://myaccount.google.com/apppasswords
-
-  https://myaccount.google.com/lesssecureapps
-
-  
